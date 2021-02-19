@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">QuizApp</string>
+    <string name="question_one">What is the format of document where we storing UI of our Android app?</string>
+    <string name="answer_one_question_one">.doc</string>
+    <string name="answer_two_question_one">.xml</string>
+    <string name="answer_three_question_one">.con</string>
+    <string name="question_two">What variable we can use to store this data: \"Rami Malek\"</string>
+    <string name="type_your_answer_here">Type your answer here</string>
+    <string name="question_three">In what folder we are storing strings.xml</string>
+    <string name="answer_one_question_two">drawable</string>
+    <string name="answer_two_question_two">layout</string>
+    <string name="answer_three_question_two">values</string>
+    <string name="question_four">What ViewGroup allowing us to make our layout scrollable?</string>
+    <string name="question_five">Check existing Views in Android</string>
+    <string name="question_six">How is called View that displays text to the user?</string>
+    <string name="textview">TextView</string>
+    <string name="frameview">FrameView</string>
+    <string name="imageview">ImageView</string>
+    <string name="checkboxview">CheckboxView</string>
+    <string name="calculate_result">Calculate result</string>
+</resources>

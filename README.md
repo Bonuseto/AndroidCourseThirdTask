@@ -1,6 +1,6 @@
 # Android Course Third Task
 Application created as part of Android Udacity Course (https://www.udacity.com/course/android-basics-nanodegree-by-google--nd803)
-This is a simple quiz application
+This is a simple quiz application.
 
 <img src="https://github.com/Bonuseto/AndroidCourseThirdTask/blob/master/quizapp_screenshot.PNG" width="250">
 
